@@ -1,7 +1,5 @@
 # Nelisiwe-Ngqeme-55
 
-Here's a `README.md` you can use for your assignment:
-
 ```markdown
 # Quiz Game
 
@@ -24,5 +22,3 @@ This is a simple console-based Quiz Game developed in Java. The game asks multip
 
 ## Example
 Run the game and answer the questions by typing A, B, C, or D. Your score will be displayed at the end.
-```
-
