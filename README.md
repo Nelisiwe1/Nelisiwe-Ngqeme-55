@@ -1,6 +1,6 @@
 # Nelisiwe-Ngqeme-55
 
-```markdown
+
 # Quiz Game
 
 ## Description
@@ -9,13 +9,13 @@ This is a simple console-based Quiz Game developed in Java. The game asks multip
 ## How to Run
 1. Ensure you have Java installed on your machine.
 2. Compile the Java file using the command:
-   ```bash
+   bash
    javac QuizGame.java
-   ```
+   
 3. Run the compiled class using:
-   ```bash
+   bash
    java QuizGame
-   ```
+   
 
 ## Dependencies
 - Java Development Kit (JDK)
